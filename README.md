@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil
 
-<!--
-**luan20243/luan20243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Luan Sales
 
-Here are some ideas to get you started:
+Estou estudando no [alura](https://
+Estou me desenvolvendo na linguagem javaScript
+Utilizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  ### você entrar em contato comigo
+
+00001127057091sp@al.educacao.sp.gov.br
+
+@luan20243
+
+![_](https://tenor.com/pt-BR/view/lunch-licking-lips-stare-cat-gif-22672471)
